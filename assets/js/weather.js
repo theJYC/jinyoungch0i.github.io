@@ -14,8 +14,8 @@ function getWeather(lat, lng) {
     .then(function(json) {
         const temperature = json.main.temp.toFixed(0); //celsius rounded up!
         const temperature_murica = ((temperature * 9/5) + 32).toFixed(0); //fahrenheit rounded up!
-        const place = json.name;
-        weather.innerText = `${temperature}°C / ${temperature_murica}°F in ${place}`;
+        const place = json.name.toLowerCase();
+        weather.innerText = `${temperature}°c / ${temperature_murica}°f in ${place}`;
     });
 
 }
