@@ -19,13 +19,13 @@ Those six months were, for the most part, spent at home, whereby I devoted to my
 
 With all the stops I made in the past year and half, I am finding myself returning to the city I have gotten to love: Asheville, North Carolina. 
 
-This is the place that was my homebase during the summer of 2018, where I took up a seasonal job as a wilderness trail maintainer.
-
-It's really come full circle. 
+This is the place that was my homebase during the summer of 2018, where I took up a seasonal job as a wilderness trail maintainer. 
 
 And my decision to live here for the next six months is my deliberate attempt to reconnect with a place that is so dear to my identity. 
 
 The Southern Appalachians are where I had finally become comfortable with [my self-identity](https://www.facebook.com/photo.php?fbid=1752903158112310&set=t.100001779277141&type=3){:target="_blank"} two years ago, having lived as a foreigner of other's cultures for more than a decade. 
+
+It's really come full circle.
 
 Here, I will be continuing to challenge my understanding of software development, work on a backlogged list of projects, and build up my knowledge in data structures and algorithms so that I can be ready for a job as a software enginner towards the end of my time here. 
 
