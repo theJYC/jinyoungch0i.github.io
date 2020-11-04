@@ -9,11 +9,11 @@ The idea of things being abstracted away is at the core of how we make sense and
 
 For example, if I were to turn on the TV in my parent's livingroom (which I certainly find myself doing a lot during this indefinite quarantine), I wouldn't exactly 'hack' into the hardware of the television just to manipulate it to flip on the channel I want to view; that would be rather inefficient and would instead push me towards a less cognitively-demanding pastime. 
 
-Alas, a remote controller exists to free me from such nuisance and this device has certain all-too-familiar features: the big red circular button occupying the top-left corner, with the imprint of the on/off symbol, and the bidirectional arrows that manipulate the output volume, for example. 
+Alas, a remote controller exists to free me from such nuisance and this device has certain all-too-familiar features: the big red circular button occupying the top-left corner with the imprint of the on/off symbol, and the bidirectional arrows that manipulate the output volume, for example. 
 
 What this means is that, wherever I am in the world (outside of my parent's livingroom), I can trust that I wouldn't be totally lost browsing the local channel network through intuition. 
 
-Now, behind the creation of any remote is a team of engineers who essentially 'make the magic happen', outside of our plain sight, so that we, the average-joe users, can trust that we have full control of the TV without being experts in electrical engineering ourselves. 
+Now, behind the creation of a remote is a team of engineers who essentially 'make the magic happen', outside of our plain sight, so that we, the average-joe users, can trust that we have full control of the TV without being experts in electrical engineering ourselves. 
 
 And, within this team, there would very likely be a division of engineers working on the visual and tactile layout (also known as UI/UX, or the 'front-end'), and a separate one working on the wirings and machinery (or the 'back-end') enclosed within the plastic container.
 
@@ -39,7 +39,7 @@ I'm building jinyoung.xyz my way, with my very limited (yet expanding) knowledge
 
 which is to see myself become that expert.  
 
-Until then, I will continue to put in the ridonculous number of commits to confront and poke holes in my front-end knowledge. 44 commits/day (on Sept 16th) is my PB so far.
+Until then, I will continue to put in the ridonculous number of commits to confront and [poke holes in my front-end knowledge](http://www.paulgraham.com/noob.html){:target="_blank"}.
 
 And hopefully things will start to make a lot more sense soon. :)   
 
