@@ -9,7 +9,7 @@ category: dev
 
 Although I had been thinking of building my first site with Python (my native language) and Flask, I came to understand that Github Pages, which had hosted [jinyoung.xyz](https://jinyoung.xyz/){:target="_blank"} at no additional cost, only supports static websites.
 
-_*Update 11/02/20: I have now migrated the site to Netlify due to privacy concern with exposing my API key(s) in a public repository._
+_*Update 11/02/20: I have now migrated the site to Netlify due to privacy concern with regards to exposed API key(s)._
 
 My initial plan was to make a full-fledged CRUD application that connects to a SQLite database, though I concluded that a static website will be a perfect starting point for now. After all, I'm not trying to make the next Facebook; I just want this to be a minimalist platform where I can share my work and growing opinion on programming and other life endeavours. 
 
