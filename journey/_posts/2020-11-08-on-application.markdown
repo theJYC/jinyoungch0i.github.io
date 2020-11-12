@@ -37,14 +37,14 @@ And the data was received in the following JSON format:
 ```json
 {"coord":{"lon":-82.6,"lat":35.57},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50d"}],"base":"stations","main":{"temp":21.28,"feels_like":24.14,"temp_min":19.44,"temp_max":22.78,"pressure":1016,"humidity":100},"visibility":6437,"wind":{"speed":2.1,"deg":160},"clouds":{"all":90},"dt":1605118449,"sys":{"type":1,"id":3351,"country":"US","sunrise":1605096159,"sunset":1605133589},"timezone":-18000,"id":4453066,"name":"Asheville","cod":200}
 ```
-After that, I cheerypicked a few datapoints, such as ```temp``` and ```name```, and assigned them into variables ```temperature``` and ```place```. I also made a fahrenheit conversion and assigned it to ```temperature_murica```:
+After that, I cheerypicked a few datapoints, such as ```temp``` and ```name```, and assigned them into variables ```temperature``` and ```place```. I also made a fahrenheit conversion and assigned it to ```temperature_us```:
 ```javascript
-    .then(function(json) {
-        const temperature = json.main.temp.toFixed(0); //celsius, rounded up
-        const place = json.name.toLowerCase(); //lowercase for consistency
-        const temperature_murica = ((temperature * 9/5) + 32).toFixed(0); //fahrenheit conversion
+.then(function(json) {
+    const temperature = json.main.temp.toFixed(0); //celsius, rounded up
+    const place = json.name.toLowerCase(); //lowercase for consistency
+    const temperature_us = ((temperature * 9/5) + 32).toFixed(0);
 ```
-I then wrote in a JavaScript template literal-- with the aforemetioned variables put in ${placeholders}-- which will be the format of the weather info. displayed:
+I then wrote in a JavaScript template literal with the aforemetioned variables put in ${placeholders}, which will be the format of the displayed weather info.:
 ```javascript
 weather.innerText = `${temperature}°c / ${temperature_murica}°f in ${place}`;
 ```
@@ -56,13 +56,11 @@ Lastly, with the JavaScript code written, the only thing that was left was to ti
 
 And voilá!
 
-As a visitor accessing [jinyoung.xyz](https://www.jinyoung.xyz/){:target='_blank'}, you will first be prompted to grant location access (as per your browser's security protocol) and, once granted, will display a line of weather information for your location, right below the navigation bar:
+As a visitor accessing [jinyoung.xyz](https://www.jinyoung.xyz/){:target='_blank'}, you will first be prompted to grant location access (as per your browser's security protocol). If you grant access, the site will display a line of weather information for your location, right below the navigation bar:
 
-[click here for a demo](https://photos.app.goo.gl/8kr3GXo6o678zju59){:target="_blank"}
+[click here for a demo](https://photos.app.goo.gl/iZwR2BmCakMnrqrz9){:target="_blank"}
 
-Looking back, the past month of learning JavaScript has been the toughest personal learning curve in my programming journey (more on this in my previous entry, [On Patience](https://www.jinyoung.xyz/journey/2020/10/23/on-patience.html){:target="_blank"}).
+Looking back, the past month of learning JavaScript has been the toughest personal learning curve in my programming journey (more on this in my previous entry, [On Patience](https://www.jinyoung.xyz/journey/2020/10/23/on-patience.html){:target="_blank"}). 
 
-However, I cannot be more excited at just how much more I'll be able to do with programing in the months to come. 
-
-I'm starting to like JavaScript! :)
+I cannot be more excited at just how much more I'll be able to do with programing with my growing understanding of JavaScript. :)
 
