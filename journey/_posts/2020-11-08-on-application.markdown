@@ -37,7 +37,7 @@ And the data was received in the following JSON format:
 ```json
 {"coord":{"lon":-82.6,"lat":35.57},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50d"}],"base":"stations","main":{"temp":21.28,"feels_like":24.14,"temp_min":19.44,"temp_max":22.78,"pressure":1016,"humidity":100},"visibility":6437,"wind":{"speed":2.1,"deg":160},"clouds":{"all":90},"dt":1605118449,"sys":{"type":1,"id":3351,"country":"US","sunrise":1605096159,"sunset":1605133589},"timezone":-18000,"id":4453066,"name":"Asheville","cod":200}
 ```
-After that, I cheerypicked a few datapoints, such as ```temp``` and ```name```, and assigned them into variables ```temperature``` and ```place```. I also made a fahrenheit conversion and assigned it to ```temperature_us```:
+I then cherrypicked a few datapoints, such as ```temp``` and ```name```, and assigned them into variables ```temperature``` and ```place```. I also made a fahrenheit conversion and assigned it to ```temperature_us```:
 ```javascript
 .then(function(json) {
     const temperature = json.main.temp.toFixed(0); //celsius, rounded up
@@ -48,7 +48,7 @@ I then wrote in a JavaScript template literal with the aforemetioned variables p
 ```javascript
 weather.innerText = `${temperature}°c / ${temperature_murica}°f in ${place}`;
 ```
-Lastly, with the JavaScript code written, the only thing that was left was to tie together this logic to the HTML backbone:
+Lastly, with the JavaScript logic written, the only thing that was left was to tie it to the HTML backbone:
 ```html
 <span id="weather"></span>
 <script src="./assets/js/weather.js" type="text/javascript" defer ></script>
@@ -62,5 +62,5 @@ As a visitor accessing [jinyoung.xyz](https://www.jinyoung.xyz/){:target='_blank
 
 Looking back, the past month of learning JavaScript has been the toughest personal learning curve in my programming journey (more on this in my previous entry, [On Patience](https://www.jinyoung.xyz/journey/2020/10/23/on-patience.html){:target="_blank"}). 
 
-I cannot be more excited at just how much more I'll be able to do with programing with my growing understanding of JavaScript. :)
+I cannot be more excited at just how much more I'll be able to do with programming, with my growing understanding of JavaScript. :)
 
