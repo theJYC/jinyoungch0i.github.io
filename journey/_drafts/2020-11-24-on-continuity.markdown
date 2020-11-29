@@ -11,6 +11,8 @@ Looking back at my recent journey so far, I would say that the best learning per
 
 Reduced in-person social interactions, freshly cemented memories of the expat life in the tropics, and the new normality of the pandemic-ridden world really allowed for deep re-evaluation of the journey I had begun post-Emory. 
 
+I was alone with my thoughts quite often; through daily walks around the nearby river, 
+
 Besides the abrupt pause of normality though, the hindsight I gained from my brief professional experience from my previous journey did allow for some reflections on the directions I would like take from here.  
 
 In the comfort of my parents company, I, for the first time in my life, decided to think about the medium-long term horizon rather than to hop onto the next best opportunity. 
