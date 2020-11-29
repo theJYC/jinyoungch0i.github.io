@@ -19,13 +19,13 @@ Now, Jekyll came with the default [minima theme](https://jekyll.github.io/minima
 
 To-do:
 
-- [x] Make site fully responsive across most client devices. 
-- [x] Decide whether or not to integrate analytics & SEO 
+[x] Make site fully responsive across most client devices. 
+[x] Decide whether or not to integrate analytics & SEO 
     - see [On Minimalism](https://jinyoung.xyz/journey/2020/09/20/on-minimalism.html){:target="_blank"}
-- [x] Connect site to API(s). 
-    - [x] [OpenWeatherMap](https://openweathermap.org/){:target="_blank"}
-- [] Make the landing page 🇰🇷/🇪🇸/🇧🇷 friendly.
-- [] Embed images on post entries being conscious of limited repository storage.
-- [] Compile all featured images onto [photos](https://jinyoung.xyz/gallery/){:target="_blank"}
+[x] Connect site to API(s). 
+    [x] [OpenWeatherMap](https://openweathermap.org/){:target="_blank"}
+[ ] Make the landing page 🇰🇷/🇪🇸/🇧🇷 friendly.
+[ ] Embed images on post entries being conscious of limited repository storage.
+[ ] Compile all featured images onto [photos](https://jinyoung.xyz/gallery/){:target="_blank"}
 
 I understand that the migration to Netlify's private server means that my blog is no longer [open source](https://simple.wikipedia.org/wiki/Free_and_open-source_software){:target="_blank"}. If you would nonetheless like to contribute or provide feedback, I encourage you to [get in touch](mailto:jinyoungsjourney@gmail.com?subject=Nice Blog!)! :)
