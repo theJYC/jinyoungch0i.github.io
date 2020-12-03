@@ -41,7 +41,7 @@ I would say that a lot of my thinking and setting of intentions were brought abo
 
 
 
-
+earmarked for later 
 
 
 
