@@ -7,46 +7,32 @@ category: journey
 
 There is a pertinent quote on the internet regarding the role of self-discipline in one's endeavour: 'motivation gets you started, **yet it's discipline that keeps you going**'<sup>1</sup>.
 
-Looking back at my recent journey so far, I would say that the best learning period for me came about when I was quarantined from the pandemic at my childhood home in Korea, and got familiar with being immersed in my own thoughts. 
+Looking back at the beginning of my programming journey, I would say that the best learning period came about when I was quarantined from the pandemic at my childhood home in Korea and got familiar with being immersed in my own thoughts. 
 
 Reduced in-person social interactions, freshly cemented memories of the expat life in the tropics, and the new normality of the pandemic-ridden world really allowed for deep re-evaluation of the journey I had begun post-Emory. 
 
-I was alone with my thoughts quite often; through daily walks around the nearby river, 
+Through daily walks around town and self-imposed social media detox, I had the chance to be fully present to myself and the growth that I was undergoing in my journey. 
 
-Besides the abrupt pause of normality though, the hindsight I gained from my brief professional experience from my previous journey did allow for some reflections on the directions I would like take from here.  
+With fondness I reminisce on those days because, truthfully, it's been tricky to remain determined since I moved back to the States a couple of months ago.
 
-In the comfort of my parents company, I, for the first time in my life, decided to think about the medium-long term horizon rather than to hop onto the next best opportunity. 
+Perhaps it's because there have been a lot of intentional changes I've been bringing into my life.
 
-With the unfortunately 
+Landing myself in a [co-living community](https://www.cohousing.org/directory/westwood-cohousing/){:target="_blank"} in Asheville, I've been slowly getting used to living with neighbours who greet me by my name and are keen to help one another out with ad-hoc chores<sup>2</sup>.
 
-It was in that very boredom that I was able to jump into a radically novel pursuit and made the intention of devoting the next immediate stage of my life to computer programming. 
+I've picked up a habit of attending my local YMCA on weekdays for outdoor HIIT classes,and have been on a handful of socially-distant neighbourhood walks with dates and friends in town. 
 
-I knew that the road ahead was long and undefined, yet it quickly became the best thing to focus my attention on. 
+Lastly I've also been adhering to a rather measurable food budget of $30/week in an effort to regain my control of my finances.
 
-In particular, given the circumstances of the pandemic and the inherently desirable traits that often characterise a career in software engineering. 
+In what can be seen as a fairly uncertain time, maybe control is what I am longing for right now. 
 
-I wouldn't really attribute that period as marked entirely by boredom though.
+I believe that you should work on the things that are within your control, and hope that you are in the best shape to confront things that are perhaps out of your control (i.e. coronavirus, a bleak entry-level job market).
 
-After trying out a career in social impact and international development, I was jaded by the perceived lack of ownership and barriers to career growth. There was a lot of bureaucracy, and it became clear to me that I was quickly becoming consumed by the 
+It is with this reason I haven't lost faith in this process; I feel pretty good about looking at life through this lens, which I think encourages more of a long-term-- rather than short-term-- approach.
 
-Most important was the former aspect:  
-At the time, the motivation arose from my brief experience of trying to build a career centered on social impact and international development, 
-
-
-
-I would say that a lot of my thinking and setting of intentions were brought about in those times, 
-
-
-
-
-
-
-earmarked for later 
-
-
-
+In the next entry, I'll be unpacking what I mean by this long-term approach. I feel like there has been a lot of growth
 
 <sup>1</sup> paraphrased, emphasis my own.
+<sup>2</sup> chore requests posted on a designated Slack channel!
 
 [jinyoung.xyz](https://www.jinyoung.xyz/){:target='_blank'}
 
