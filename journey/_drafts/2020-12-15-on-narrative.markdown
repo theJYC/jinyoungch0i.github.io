@@ -19,20 +19,20 @@ I feel like it's about time I wrote a few of those down onto this platform, in o
 
 Perhaps the biggest reason I am building my skills in this new field is that I believe that programming is one of the most universally applicable skillset that one can have in this day and age.
 
-It's a skill that can be marketed in many places around the world, and it's a collaborative craft that is practiced and advocated worldwide. 
+It's a skill that can be marketed in many places around the world, and it's evidently a collaborative craft that is practiced and advocated worldwide. 
 
 I don't believe that everyone is suited for a career in software development but the resources are absolutely there for those who are entertained by that idea, since the information is incredibly democratised.<sup>1</sup>
 
 I like that about programming; if you have a will to take charge of your learning, you will absolutely be able to get there without having external factors<sup>2</sup> significantly weigh you down. 
 
-In a similar vein, the opportunities for those who are good at the craft are fairly universal; despite that you are growing an expertise in a specific domain, you can apply your skills towards so many fields that are enabled by the power of information technology. 
+In a similar vein, the opportunities for those who are good at the craft are fairly wide-reaching; despite that you are growing an expertise in a specific skillset, you can apply yourself towards a wide host of domains that are enabled by the power of information technology. 
 
-On the note of the ubiquity of programming and the growing demand of software engineers, this case
+The demand for digital transformation does not seem to slow down at any point; if anything, the pandemic was a good reminder that a lot more can be achieved virtually than one had originally thought. 
+
+Lastly, I like that learning to program is primarily a self-guided endeavour. There is a heightened sense of agency with cultivating the in-demand skills, and 
 
 
 <sup>1</sup>this point remains especially pertinent when compared to a traditional undergraduate education. however, i am not naive to dismiss the fact that the vast availability of educational resources makes it hard to find direction and structure if learning is primarily undertaken this way.
-
-<sup>2</sup>i say this with an honest acknowledgement of my privilege of being able to live without active income, with no debts weighing down my long-term thinking.
 
 
 

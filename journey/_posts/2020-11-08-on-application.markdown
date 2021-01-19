@@ -46,7 +46,7 @@ I then cherrypicked a few datapoints, such as ```temp``` and ```name```, and ass
 ```
 I then wrote in a JavaScript template literal with the aforemetioned variables put in ${placeholders}, which will be the format of the displayed weather info.:
 ```javascript
-weather.innerText = `${temperature}°c / ${temperature_murica}°f in ${place}`;
+weather.innerText = `${temperature}°c / ${temperature_us}°f in ${place}`;
 ```
 Lastly, with the JavaScript logic written, the only thing that was left was to tie it to the HTML backbone:
 ```html
@@ -58,7 +58,7 @@ And voilá!
 
 As a visitor accessing [jinyoung.xyz](https://www.jinyoung.xyz/){:target='_blank'}, you will first be prompted to grant location access (as per your browser's security protocol). If you grant access, the site will display a line of weather information for your location, right below the navigation bar:
 
-[click here for a demo](https://photos.app.goo.gl/iZwR2BmCakMnrqrz9){:target="_blank"}
+[click here for illustration](https://photos.app.goo.gl/iZwR2BmCakMnrqrz9){:target="_blank"}
 
 Looking back, the past month of learning JavaScript has been the toughest personal learning curve in my programming journey (more on this in my previous entry, [On Patience](https://www.jinyoung.xyz/journey/2020/10/23/on-patience.html){:target="_blank"}). 
 
