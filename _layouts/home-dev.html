@@ -23,7 +23,7 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.content }} <!-- changed from title & excerpt to title & content (like wordpress blog) -->
         {%- endif -%}
       </li>
       {%- endif -%}
