@@ -4,9 +4,9 @@ title:  "Calculator"
 date:   2021-01-20 02:36:11 +0900
 category: dev
 ---
-
-<img src="{{site.base_url }}/dev/assets/images/calc.png" alt='calculator static demo' width="345">
-
+<a href="https://jinyoungch0i.github.io/Calculator/">
+    <img src="{{site.base_url}}/dev/assets/images/calc.png" alt='calculator static demo' width="345">
+</a>
 After picking up JavaScript a few months ago, this is my first standalone project that has been testing out the limits to my vanilla JS knowledge. [Link to source](https://github.com/jinyoungch0i/Calculator){:target="_blank"}
 
 In particular, building this calculator has been a necessary exercise in my self-teaching journey because it allowed me to confront the previously elusive concepts of DOM manipulation and JavaScript's way around the WebAPI. 
