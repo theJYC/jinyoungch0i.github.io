@@ -104,6 +104,10 @@ figure > img {
   display: block;
 }
 
+figure {
+  width: 50%;
+}
+
 figcaption {
   font-size: $small-font-size;
 }
