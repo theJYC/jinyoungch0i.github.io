@@ -5,6 +5,8 @@ date:   2020-09-16 02:36:11 +0900
 category: dev
 ---
 
+<img src="{{site.base_url}}/dev/assets/images/xyz.gif" alt='blog preview' width="328">
+
 [jinyoung.xyz](https://jinyoung.xyz/){:target="_blank"} is a custom-built site that is currently hosted on a Netlify server. It runs on Jekyll, a static site engine built in Ruby, HTML5, SASS, and CSS3.
 
 Although I had been thinking of building my first site with Python (my native language) and Flask, I came to understand that Github Pages, which had hosted [jinyoung.xyz](https://jinyoung.xyz/){:target="_blank"} at no additional cost, only supports static websites.
@@ -27,5 +29,3 @@ To-do:
 - [ ] Make the landing page 🇰🇷/🇪🇸/🇧🇷 friendly.
 - [ ] Embed images on post entries being conscious of limited repository storage.
 - [ ] Compile all featured images onto [photos](https://jinyoung.xyz/gallery/){:target="_blank"}
-
-I understand that the migration to Netlify's private server means that my blog is no longer [open source](https://simple.wikipedia.org/wiki/Free_and_open-source_software){:target="_blank"}. If you would nonetheless like to contribute or provide feedback, I encourage you to [get in touch](mailto:jinyoungsjourney@gmail.com?subject=Nice Blog!)! :)
