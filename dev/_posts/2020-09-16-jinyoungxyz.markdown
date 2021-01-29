@@ -7,6 +7,8 @@ category: dev
 
 <img src="{{site.base_url}}/dev/assets/images/xyz.gif" alt='blog preview' width="328">
 
+**Technologies**: HTML, CSS, vanilla JavaScript, Jekyll, OpenWeatherMap API
+
 [jinyoung.xyz](https://jinyoung.xyz/){:target="_blank"} is a custom-built site that is currently hosted on a Netlify server. It runs on Jekyll, a static site engine built in Ruby, HTML5, SASS, and CSS3.
 
 Although I had been thinking of building my first site with Python (my native language) and Flask, I came to understand that Github Pages, which had hosted [jinyoung.xyz](https://jinyoung.xyz/){:target="_blank"} at no additional cost, only supports static websites.

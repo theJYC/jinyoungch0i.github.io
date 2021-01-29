@@ -8,6 +8,8 @@ category: dev
     <img src="{{site.base_url}}/dev/assets/images/calc.gif" alt='calculator dynamic demo' width="328">
 </a>
 
+**Technologies**: HTML, CSS, vanilla JavaScript, DOM API
+
 After picking up JavaScript a few months ago, this is my first standalone project that has been testing out the limits to my vanilla JS knowledge. [Link to source](https://github.com/jinyoungch0i/Calculator){:target="_blank"}
 
 In particular, building this calculator has been a necessary exercise in my self-teaching journey because it allowed me to confront the previously elusive concepts of DOM manipulation and JavaScript's way around the WebAPI. 
