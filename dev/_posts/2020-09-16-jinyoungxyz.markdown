@@ -5,7 +5,7 @@ date:   2020-09-16 02:36:11 +0900
 category: dev
 ---
 
-<img src="{{site.base_url}}/dev/assets/images/xyz.gif" alt='blog preview' width="328">
+<img src="{{site.base_url}}/dev/assets/images/xyz.gif" alt='blog preview' width="500">
 
 **Technologies**: HTML, CSS, vanilla JavaScript, Jekyll, OpenWeatherMap API
 

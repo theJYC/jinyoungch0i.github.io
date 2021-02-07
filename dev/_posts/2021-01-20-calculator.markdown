@@ -5,7 +5,7 @@ date:   2021-01-20 02:36:11 +0900
 category: dev
 ---
 <a href="https://jinyoungch0i.github.io/Calculator/">
-    <img src="{{site.base_url}}/dev/assets/images/calc.gif" alt='calculator dynamic demo' width="328">
+    <img src="{{site.base_url}}/dev/assets/images/calc.gif" alt='calculator dynamic demo'>
 </a>
 
 **Technologies**: HTML, CSS, vanilla JavaScript, DOM API
