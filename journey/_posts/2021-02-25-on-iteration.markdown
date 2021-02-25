@@ -21,7 +21,7 @@ Today I feel moved to write about the concept of iteration because, much like co
 
 Since writing my first `print("hello world")` seven months ago, I cannot begin to emphasise just how much my thought process has evolved over this period of time. 
 
-While the goal I had for my sixth month mark was to apply to a highly-selective computer programming [retreat](https://www.recurse.com/){:target="_blank"} in NYC, I gradually came to the conclusion that jumping into such a platform at an early stage of my career is something that I would not be able to make the most out of-- as compared to participating at a later stage.
+While the goal I had for my sixth month mark was to apply to a competitive computer programming [retreat](https://www.recurse.com/){:target="_blank"} in NYC, I gradually came to the conclusion that jumping into such a platform at an early stage of my career is something that I would not be able to make the most out of-- as compared to participating at a later stage.
 
 One particular [blog](https://colorfulcodesblog.wordpress.com/2016/08/21/recurse-center-application-process/comment-page-1/){:target="_blank"} really consolidated my rationale, and encouraged me to keep seeking for things I otherwise desire in terms of supplementing my self-guided career change. 
 
@@ -33,7 +33,7 @@ I'm convinced that these two factors are what coding bootcamps exploit from the 
 
 Many times I've thought about applying for a bootcamp since the email marketing I receive from some of them are just convincing enough depending on the particular mood I'm in: 
 
-*We offer an accessible and generous Income Share Agreement (ISA) tuition model with the unique opportunity to 'learn from the experts' and 'accelerate' a programming career in just a few months; a feat that would otherwise be close to impossible if attempted alone.* 
+*We offer an accessible and generous Income Share Agreement (ISA) tuition model with the unique opportunity to **learn from the experts** and **accelerate** a programming career in just a few months; a feat that would otherwise be close to impossible if attempted alone.* 
 
 *-almost all boot camps* 
 
@@ -51,4 +51,6 @@ Yesterday we performed our 4th weekly standup ('standups' are a type of meeting 
 
 There are only four real active members as of now, yet it feels great to have a tight-knit tribe with whom I feel a lot less lonely and lost in this often-times overwhelming endeavour. 
 
-I'm excited to see the community grow and contribute to it in ways I can. :)
+I'm excited to see the community grow and contribute to it in ways I can.
+
+By the way, did I say I'm participating in my first hackathon this weekend? :)
