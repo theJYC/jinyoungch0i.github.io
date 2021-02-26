@@ -9,6 +9,8 @@ Software engineering is all about iteration upon iteration.
 
 Looking at the git history of my latest project [CheckedIn](https://github.com/jinyoungch0i/CheckedIn){:target="_blank"}, I've made over 120 commits to this exciting software I've started developing only three weeks ago. 
 
+(For my visually-inclined readers, I've been keeping a record of all the UI iterations I've committed over the course of its development [here](https://github.com/jinyoungch0i/CheckedIn/tree/main/changelog){:target="_blank"}).
+
 By the time I feel ready to make it official and share it with my network for beta testing, I wouldn't be surprised if that figure hits above 300. 
 
 Perhaps that's because I tend to be particularly meticulous with logging every noteworthy modification on its `.git` directory. 
@@ -33,7 +35,7 @@ I'm convinced that these two factors are what coding bootcamps exploit from the 
 
 Many times I've thought about applying for a bootcamp since the email marketing I receive from some of them are just convincing enough depending on the particular mood I'm in: 
 
-*We offer an accessible and generous Income Share Agreement (ISA) tuition model with the unique opportunity to **learn from the experts** and **accelerate** a programming career in just a few months; a feat that would otherwise be close to impossible if attempted alone.* 
+*We offer an accessible Income Share Agreement (ISA) tuition model with the unique opportunity to **learn from the experts** and **accelerate** a programming career in just a few months; a feat that would otherwise be close to impossible if attempted alone.* 
 
 *-almost all boot camps* 
 <br>
@@ -47,7 +49,7 @@ Writing this entry is a conscious step towards continuing to lead a more deliber
 
 That said, I'm pleased to share that I've found an [online community](https://groupsforlearning.com/){:target="_blank"} that has been pivotal in my pursuit of cohort-based learning and accountability systems. 
 
-Yesterday we performed our 4th weekly standup ('standups' are a type of meeting structure that is regularly practiced in engineering teams), and I've been able to find folks to pair-program with on algorithmic challenges and also get help on debugging my code through the guidance of a mentor I met on the platform. 
+Yesterday we performed our 4th weekly stand-up and, over the course of these 4 weeks, I've found folks to pair-program algorithmic challenges with and have gotten some general career guidance from a mentor I met on the platform. 
 
 While it's still early in its development, I feel propelled to share my gratitude for this community. 
 
