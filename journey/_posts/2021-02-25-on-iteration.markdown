@@ -11,7 +11,7 @@ Looking at the git history of my latest project [CheckedIn](https://github.com/j
 
 By the time I feel ready to make it official and share it with my network for beta testing, I wouldn't be surprised if that figure hits above 300. 
 
-Perhaps that's because I tend to be particularly meticulous with logging every noteworthy modification to its `.git` file. 
+Perhaps that's because I tend to be particularly meticulous with logging every noteworthy modification on its `.git` directory. 
 
 After all, I wouldn't want to overlook a seemingly benign iteration that may come around to cause a critical bug in an unforeseen way. 
 
@@ -27,7 +27,7 @@ One particular [blog](https://colorfulcodesblog.wordpress.com/2016/08/21/recurse
 
 As I noted in my previous entry [On Direction](https://www.jinyoung.xyz/journey/2020/10/11/on-direction.html){:target="_blank"}, something I've been longing for has been the sense of peer-support that I often took for granted in my traditional schooling. 
 
-Now, learning **any** discipline in a self-taught manner can make a lonely experience, especially without a network of colleagues with whom to bounce ideas with and remain accountable in each other's progress. 
+Now, learning **any** discipline in a self-taught manner can make a lonely experience, especially without a network of colleagues with whom to bounce ideas with and remain accountable to. 
 
 I'm convinced that these two factors are what coding bootcamps exploit from the growing number of wanna-be software developers. 
 
@@ -36,6 +36,8 @@ Many times I've thought about applying for a bootcamp since the email marketing 
 *We offer an accessible and generous Income Share Agreement (ISA) tuition model with the unique opportunity to **learn from the experts** and **accelerate** a programming career in just a few months; a feat that would otherwise be close to impossible if attempted alone.* 
 
 *-almost all boot camps* 
+<br>
+
 
 Thankfully, I see myself gradually returning to the conclusion that I can achieve those two factors if I intentionally seek them out through the very kind of resourcefulness and drive that has defined my self-guided journey up until this point. 
 
@@ -45,9 +47,9 @@ Writing this entry is a conscious step towards continuing to lead a more deliber
 
 That said, I'm pleased to share that I've found an [online community](https://groupsforlearning.com/){:target="_blank"} that has been pivotal in my pursuit of cohort-based learning and accountability systems. 
 
-It's early in its development and it's far from a silver bullet solution. But it really exemplifies the notion that the internet is a wonderful place where you can always find like-minded folks who are keen on complementing the direction you're headed. 
-
 Yesterday we performed our 4th weekly standup ('standups' are a type of meeting structure that is regularly practiced in engineering teams), and I feel propelled to share my gratitude for this community. 
+
+It's early in its development and it's far from a silver bullet solution. But it really exemplifies the notion that the internet is a wonderful place where you can always find like-minded folks who are keen on sharing the direction you're headed. 
 
 There are only four real active members as of now, yet it feels great to have a tight-knit tribe with whom I feel a lot less lonely and lost in this often-times overwhelming endeavour. 
 
