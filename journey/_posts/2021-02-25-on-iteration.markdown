@@ -47,9 +47,11 @@ Writing this entry is a conscious step towards continuing to lead a more deliber
 
 That said, I'm pleased to share that I've found an [online community](https://groupsforlearning.com/){:target="_blank"} that has been pivotal in my pursuit of cohort-based learning and accountability systems. 
 
-Yesterday we performed our 4th weekly standup ('standups' are a type of meeting structure that is regularly practiced in engineering teams), and I feel propelled to share my gratitude for this community. 
+Yesterday we performed our 4th weekly standup ('standups' are a type of meeting structure that is regularly practiced in engineering teams), and I've been able to find folks to pair-program with on algorithmic challenges and also get help on debugging my code through the guidance of a mentor I met on the platform. 
 
-It's early in its development and it's far from a silver bullet solution. But it really exemplifies the notion that the internet is a wonderful place where you can always find like-minded folks who are keen on sharing the direction you're headed. 
+While it's still early in its development, I feel propelled to share my gratitude for this community. 
+
+It really exemplifies the notion that the internet is a wonderful place where you can always find like-minded folks who are keen on sharing the direction you're headed. 
 
 There are only four real active members as of now, yet it feels great to have a tight-knit tribe with whom I feel a lot less lonely and lost in this often-times overwhelming endeavour. 
 
