@@ -4,7 +4,7 @@ title:  "CheckedIn"
 date:   2021-02-07 02:36:11 +0900
 category: dev
 ---
-<a href="https://jinyoungch0i.github.io/CheckedIn/">
+<a href="https://jinyoungch0i.github.io/checkedin./">
     <img src="{{site.base_url}}/dev/assets/images/checkedin.gif" alt='checkedIn dynamic demo' width="500">
 </a>
 
