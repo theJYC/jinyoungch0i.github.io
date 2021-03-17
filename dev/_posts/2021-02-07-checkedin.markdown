@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CheckedIn"
+title:  "checkedin."
 date:   2021-02-07 02:36:11 +0900
 category: dev
 ---
@@ -10,6 +10,6 @@ category: dev
 
 #### **Technologies**: HTML, CSS, JavaScript (OOP), Day.js, Web APIs (DOM, Web Storage)
 
-CheckedIn is an open source, browser-based CRUD application providing users with a minimalistic platform to manage their contacts and be reminded of when to get in touch with others. 
+checkedin. is an open source, browser-based CRUD application providing users with a minimalistic platform to manage their contacts and be reminded of when to get in touch with others. 
 
 [Live Demo](https://jinyoungch0i.github.io/checkedin./){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/checkedin.){:target="_blank"}
