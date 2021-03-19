@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "checkedin."
+date:   2021-02-07 02:36:11 +0900
+category: dev
+---
+<a href="https://jinyoungch0i.github.io/cv_tailor/">
+    <img src="{{site.base_url}}/dev/assets/images/CHANGETHIS.gif" alt='cv_tailor screenshot' width="500">
+</a>
+
+#### **Technologies**: Python (NumPy, pandas), Google Firebase, OAuth
+
+cv_tailor is a CLI-based automation software that saves the job applicant the hassle of manually tailoring their CV/résumé to specific job positions. 
+
+[Live Demo](https://jinyoungch0i.github.io/checkedin./){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/checkedin.){:target="_blank"}
