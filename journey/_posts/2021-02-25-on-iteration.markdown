@@ -7,9 +7,9 @@ category: journey
 
 Software engineering is all about iteration upon iteration.
 
-Looking at the git history of my latest project [CheckedIn](https://github.com/jinyoungch0i/CheckedIn){:target="_blank"}, I've made over 120 commits to this exciting software I've started developing only three weeks ago. 
+Looking at the git history of my latest project [checkedin.](https://github.com/jinyoungch0i/checkedin.){:target="_blank"}, I've made over 120 commits to this exciting software I've started developing only three weeks ago. 
 
-(For my visually-inclined readers, I've been keeping a record of all the UI iterations I've committed over the course of its development [here](https://github.com/jinyoungch0i/CheckedIn/tree/main/changelog){:target="_blank"}).
+(For my visually-inclined readers, I've been keeping a record of all the UI iterations I've committed over the course of its development [here](https://github.com/jinyoungch0i/checkedin./tree/main/changelog){:target="_blank"}).
 
 By the time I feel ready to make it official and share it with my network for beta testing, I wouldn't be surprised if that figure hits above 300. 
 
