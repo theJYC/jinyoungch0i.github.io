@@ -12,4 +12,4 @@ category: dev
 
 cv_tailor is a CLI-based automation tool that saves the job applicant the hassle of manually tailoring their CV/résumé to specific job positions. 
 
-[Live Demo](placeholder for demo video!){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/cv_tailor.){:target="_blank"}
+[Live Demo](https://devpost.com/software/cv_tailor){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/cv_tailor){:target="_blank"}
