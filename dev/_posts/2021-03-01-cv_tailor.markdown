@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "cv_tailor"
-date:   2021-02-07 02:36:11 +0900
+date:   2021-02-28 02:36:11 +0900
 category: dev
 ---
 <!-- <a href="https://github.com/jinyoungch0i/cv_tailor">
