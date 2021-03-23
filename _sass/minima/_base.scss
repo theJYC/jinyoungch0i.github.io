@@ -83,7 +83,7 @@ ul, ol, dl, figure,
  */
 main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
-  // width:100%; this fixed the responsiveness issue with code snippets! JYC 03/22/2021
+  width:100%; /* this fixed the responsiveness issue with code snippets! JYC 03/22/2021 */
 }
 
 
