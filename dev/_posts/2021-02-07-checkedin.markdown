@@ -10,6 +10,6 @@ category: dev
 
 #### **Technologies**: HTML, CSS, JavaScript (OOP), Day.js, Web APIs (DOM, Web Storage)
 
-checkedin. is an open source, browser-based CRUD application providing users with a minimalistic platform to manage their contacts and be reminded of when to get in touch with others. 
+checkedin. is a browser-based CRUD application providing users with an intuitive platform to manage their contacts and be reminded of when to get in touch with others. 
 
 [Live Demo](https://jinyoungch0i.github.io/checkedin./){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/checkedin.){:target="_blank"}
