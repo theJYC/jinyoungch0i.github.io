@@ -12,6 +12,6 @@ category: dev
 
 checkedin. is a CRUD web application providing users with an intuitive platform to manage their contacts and be reminded of when to get in touch with others. 
 
-Chromium-based browsers (such as Google Chrome, Microsoft Edge, or Brave) provide the best User Experience for checkedin.
+*Chromium-based browsers (such as Google Chrome, Microsoft Edge, or Brave) will provide the best user experience for checkedin.*
 
 [Live Demo](https://jinyoungch0i.github.io/checkedin./){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/checkedin.){:target="_blank"}
