@@ -7,7 +7,7 @@ category: journey
 
 I've finally settled down, after having been on the move for the past year and a half. 
 
-After a cohosting a workshop in Guatemala and staying in the country for two weeks to explore its wonderful coffeelands, I finished things off in Atlanta upon my graduation, then headed over to Portugual for five weeks to study the portuguese language. 
+After a cohosting a workshop in Guatemala and staying in the country for two weeks to explore its wonderful coffeelands, I finished things off in Atlanta upon my graduation, then headed over to Portugal for five weeks to study the Portuguese language. 
 
 Next, I was off on a 9-day research trip to Tanzania, then made a return to England to see my brother Ryan graduate, visited my friend Josep in Paris for a weekend, went to Iceland on a family trip, and made a brief stop in Korea until taking off again to Panama where I worked and lived for six months.  
 
