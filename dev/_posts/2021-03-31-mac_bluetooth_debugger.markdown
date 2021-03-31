@@ -8,7 +8,7 @@ category: dev
     <img src="{{site.base_url}}/dev/assets/images/CHANGETHIS.gif" alt='cv_tailor screenshot' width="500">
 </a> -->
 
-#### **Technologies: Python, Terminal, Git (for Installation)**
+#### **Technologies**: Python, Terminal, Git
 
 mac_bluetooth_debugger is a simple Python program that automates the deletion of the system-generated `com.apple.Bluetooth.plist` file, which is known to cause connection issues between your Mac and its Bluetooth devices. 
 
