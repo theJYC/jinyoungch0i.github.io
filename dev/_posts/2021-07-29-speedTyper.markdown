@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "bluetooth_debugger"
+title:  "speedTyper"
 date:   2021-07-29 02:36:11 +0900
 category: dev
 ---
