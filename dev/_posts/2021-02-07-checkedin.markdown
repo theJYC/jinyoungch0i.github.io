@@ -15,4 +15,4 @@ checkedin. is a web calendar that reminds users when to get in touch with others
 
 *Chromium-based Desktop browsers (such as Google Chrome, Microsoft Edge, Opera, or Brave) will provide the best user experience for checkedin.*
 
-[Live Demo](https://jinyoungch0i.github.io/checkedin./){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/checkedin.){:target="_blank"}
+[Live Demo](https://jinyoungch0i.github.io/checkedin./public/){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/checkedin.){:target="_blank"}
