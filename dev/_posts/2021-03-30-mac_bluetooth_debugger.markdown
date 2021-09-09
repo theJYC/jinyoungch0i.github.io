@@ -10,7 +10,7 @@ category: dev
     <img src="{{site.base_url}}/dev/assets/images/CHANGETHIS.gif" alt='cv_tailor screenshot' width="500">
 </a> -->
 
-#### **Technologies**: Python, Terminal, Git
+#### **Technologies**: Python, JavaScript (Node.js) Terminal, Git
 
 bluetooth_debugger is an automation script that debugs the root cause of a common macOS bluetooth connectivity issue for paired wireless devices.
 
