@@ -5,7 +5,7 @@ date:   2021-09-13 02:36:11 +0900
 category: dev
 ---
 
-#### **Technologies**: Bash
+#### **Technologies**: Bash, Create React App
 
 no-bloat-react is an automation script that initialises a React App with only strictly necessary files.
 
