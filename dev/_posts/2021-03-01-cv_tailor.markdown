@@ -8,7 +8,7 @@ category: dev
     <img src="{{site.base_url}}/dev/assets/images/CHANGETHIS.gif" alt='cv_tailor screenshot' width="500">
 </a> -->
 
-#### **Technologies**: Python (NumPy, pandas), Google Firebase
+#### **Technologies**: Python, Google Firebase
 
 cv_tailor is a CLI automation tool that saves the job applicant the hassle of manually tailoring their CV/résumé to specific job positions. 
 
