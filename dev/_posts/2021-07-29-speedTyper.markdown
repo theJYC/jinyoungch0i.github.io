@@ -10,8 +10,8 @@ category: dev
     <img src="{{site.base_url}}/dev/assets/images/CHANGETHIS.gif" alt='cv_tailor screenshot' width="500">
 </a> -->
 
-#### **Technologies**: HTML, CSS, JavaScript, React
+#### **Technologies**: HTML, CSS, JavaScript, React (Hooks)
 
-speedTyper is a typing speed calculator that incorporates native React hooks (useEffect, useState, useRef), as well as a custom hook to separate business logic from UI.
+speedTyper is a typing game that compares your Words Per Minute (WPM) against the average person.
 
 [Live Demo](https://jinyoungch0i.github.io/speedTyper/){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/speedTyper){:target="_blank"}

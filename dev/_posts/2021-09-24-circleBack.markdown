@@ -5,7 +5,7 @@ date:   2021-09-24 02:36:11 +0900
 category: dev
 ---
 
-#### **Technologies**: HTML/CSS, React (Context API), Bootstrap, Chrome APIs
+#### **Technologies**: HTML/CSS, JavaScript, React.js (Context API), Bootstrap, Chrome APIs
 
 circleBack is a Chrome Extension that tracks your LinkedIn networking efforts.
 
