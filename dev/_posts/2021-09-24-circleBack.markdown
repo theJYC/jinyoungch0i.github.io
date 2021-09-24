@@ -9,4 +9,4 @@ category: dev
 
 circleBack is a Chrome Extension that allows users to keep an accessible record of select LinkedIn contacts.
 
-Demo(https://chrome.google.com/webstore/category/extensions){:target="_blank"} [Source Code](https://github.com/jinyoungch0i/circleBack){:target="_blank"}
+[Live Demo](https://chrome.google.com/webstore/category/extensions){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/circleBack){:target="_blank"}
