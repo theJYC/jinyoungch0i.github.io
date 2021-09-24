@@ -10,7 +10,7 @@ category: dev
     <img src="{{site.base_url}}/dev/assets/images/CHANGETHIS.gif" alt='cv_tailor screenshot' width="500">
 </a> -->
 
-#### **Technologies**: HTML, CSS, JavaScript, React (Hooks)
+#### **Technologies**: HTML/CSS, JavaScript, React.js (Hooks)
 
 speedTyper is a typing game that compares your Words Per Minute (WPM) against the average person.
 
