@@ -12,6 +12,6 @@ category: dev
 
 #### **Technologies**: Bash, Node.js, Python
 
-bluetooth_debugger is an automation script written in bash/node.js/python that debugs the root cause of a common macOS bluetooth connectivity issue for paired wireless devices.
+An automation script written in bash/node.js/python that debugs the root cause of a common macOS bluetooth connectivity issue for paired wireless devices.
 
-[Context](https://stackoverflow.com/questions/20553957/how-can-i-clear-the-corebluetooth-cache-on-macos){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/mac_bluetooth_debugger){:target="_blank"}
+[<u>Context</u>](https://stackoverflow.com/questions/20553957/how-can-i-clear-the-corebluetooth-cache-on-macos){:target="_blank"} & [<u>Source Code</u>](https://github.com/jinyoungch0i/mac_bluetooth_debugger){:target="_blank"}

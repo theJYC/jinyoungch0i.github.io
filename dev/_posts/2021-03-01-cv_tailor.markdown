@@ -10,6 +10,9 @@ category: dev
 
 #### **Technologies**: Python, Google Firebase
 
-cv_tailor is a CLI automation tool that saves the job applicant the hassle of manually tailoring their CV/résumé to specific job positions. 
+A CLI tool that saves the job applicant the hassle of manually tailoring their CV/résumé to specific job positions.
 
-[Live Demo](https://devpost.com/software/cv_tailor){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/cv_tailor){:target="_blank"}
+`hackathon`, [`warwick hack`](https://warwickhack-2021.devpost.com/){:target="_blank"}
+
+[<u>Live Demo</u>](https://devpost.com/software/cv_tailor){:target="_blank"} & [<u>Source Code</u>](https://github.com/jinyoungch0i/cv_tailor){:target="_blank"}
+

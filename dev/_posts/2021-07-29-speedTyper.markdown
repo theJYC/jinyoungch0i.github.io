@@ -12,6 +12,6 @@ category: dev
 
 #### **Technologies**: HTML/CSS, JavaScript, React.js (Hooks)
 
-speedTyper is a typing game that compares your Words Per Minute (WPM) against the average person.
+A typing game that compares your Words Per Minute (WPM) against the average person.
 
-[Live Demo](https://jinyoungch0i.github.io/speedTyper/){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/speedTyper){:target="_blank"}
+[<u>Live Demo</u>](https://jinyoungch0i.github.io/speedTyper/){:target="_blank"} & [<u>Source Code</u>](https://github.com/jinyoungch0i/speedTyper){:target="_blank"}

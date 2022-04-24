@@ -9,6 +9,6 @@ category: dev
  -->
 **Technologies**: HTML/CSS, Sass, JavaScript, Jekyll (Ruby, Liquid), OpenWeatherMap API, Netlify
 
-jinyoung.xyz is a fully responsive, custom-built portfolio application built on the Jekyll framework. 
+A mobile-first blog & portfolio. 
 
-[Live Demo](https://jinyoungch0i.github.io/){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/jinyoungchoi.github.io){:target="_blank"}
+[<u>Live Demo</u>](https://jinyoungch0i.github.io/){:target="_blank"} & [<u>Source Code</u>](https://github.com/jinyoungch0i/jinyoungchoi.github.io){:target="_blank"}

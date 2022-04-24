@@ -11,6 +11,6 @@ category: dev
 
 #### **Technologies**: HTML/CSS, JavaScript, Node.js, Day.js
 
-checkedin. is a web calendar that reminds users when to get in touch with others.
+A web calendar that reminds users when to get in touch with registered contacts.
 
-[Live Demo](https://jinyoungch0i.github.io/checkedin./public/){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/checkedin.){:target="_blank"}
+[<u>Live Demo</u>](https://jinyoungch0i.github.io/checkedin./public/){:target="_blank"} & [<u>Source Code</u>](https://github.com/jinyoungch0i/checkedin.){:target="_blank"}

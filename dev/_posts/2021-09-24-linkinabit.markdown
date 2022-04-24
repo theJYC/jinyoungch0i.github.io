@@ -7,6 +7,6 @@ category: dev
 
 #### **Technologies**: HTML/CSS, JavaScript, React.js (Context API), Bootstrap, Chrome APIs
 
-LinkInABit is a Chrome Extension that tracks your LinkedIn networking efforts.
+A browser extension that tracks your LinkedIn networking efforts.
 
-[Live Demo](https://chrome.google.com/webstore/category/extensions){:target="_blank"} & [Source Code](https://github.com/jinyoungch0i/LinkInABit){:target="_blank"}
+[<u>Live Demo</u>](https://chrome.google.com/webstore/category/extensions){:target="_blank"} & [<u>Source Code</u>](https://github.com/jinyoungch0i/LinkInABit){:target="_blank"}
